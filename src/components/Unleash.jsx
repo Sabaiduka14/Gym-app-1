@@ -48,7 +48,7 @@ export default function Unleash() {
         <div className="ml-6">
           <img
             src={WorkoutPro}
-            className="rounded-lg w-128 md:w-full md:h-[500px] object-cover -ml-5"
+            className="rounded-lg w-[500px] md:w-full md:h-[500px] object-cover -ml-5"
           />
         </div>
       </div>

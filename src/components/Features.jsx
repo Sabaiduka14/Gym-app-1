@@ -10,7 +10,7 @@ export default function Features() {
         <div className="w-full h-full">
           <img
             src={features}
-            className="rounded-lg md:w-full w-[450px] h-[300px] md:h-[550px] object-cover"
+            className="rounded-lg md:w-full w-[290px] h-[300px] md:h-[550px] object-cover"
             alt="Features"
           />
         </div>
